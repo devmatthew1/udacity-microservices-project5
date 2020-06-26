@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://circleci.com/gh/surelay/udacity-microservices-project5.svg?style=svg
 
 ## Project Overview
 
