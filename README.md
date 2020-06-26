@@ -1,4 +1,4 @@
-https://circleci.com/gh/surelay/udacity-microservices-project5.svg?style=svg
+[![CircleCI](https://circleci.com/gh/surelay/udacity-microservices-project5.svg?style=svg)](https://circleci.com/gh/surelay/udacity-microservices-project5)
 
 ## Project Overview
 
