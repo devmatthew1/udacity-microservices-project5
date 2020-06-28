@@ -34,6 +34,7 @@ follow this example:* Create a virtualenv `python3 -m venv ~/.devops` and activa
 1. Standalone:  `python app.py`
 2. Run in Docker:  `./run_docker.sh`
 3. Run in Kubernetes:  `./run_kubernetes.sh`
+4. delete minicube
 
 ### Kubernetes Steps
 
